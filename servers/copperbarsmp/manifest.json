@@ -1,0 +1,9 @@
+{
+  "server-address": ["212.229.119.130:25565"],
+  "pretty-name": "CopperBarSMP",
+  "categorys": ["SURVIVAL"],
+  "assets": {
+    "icon": "./icon.png",
+    "background": "./bg.png"
+  },
+}
